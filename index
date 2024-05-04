@@ -17,14 +17,15 @@
             <div class="post-text-box">
                <h1>Postagem Mais Recente</h1>
                <section>
-                  <h1>Primeira Postagem</h1>
-                  <p> Oi, eu sou a Amanda Ferreira, tenho 16 anos, e gosto muito de matéria exatas. </p>
+                  <h1>Barbossa</h1>
+                  <p> Não, sou um pouco suspeito para falar sobre o Barbossa.
+Ele pode ser um cão raivoso, manco, que late, ladra, o mais vomitante, esquizofrênico dos infernos, contudo, não deixa de ser gente boa. </p>
                </section>
             </div>
             <div class=”profile”>
                <h1>Sobre Mim</h1>
-               <img src=”images.png”>
-               <p>Sobre o autor</p>
+               <img class src=”images(1).jpeg”>
+               <p>Capitão Jack Sparrow</p>
             </div>  
          </div>        
       </main>
